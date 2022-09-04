@@ -1,15 +1,18 @@
 ### Abt me
 >My profile overview
+
+<p align="center"><img src="https://media.giphy.com/media/jO3guf6Wf47T2/giphy.gif" width="250"/></p>
+
 # Hey folks,👋 my name is Parth Vij and I'm a passionate coder
 <div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=red" alt=""/>
+</div>
 
 > - 🎓 I'm a first year Btech.Computer Science student
 > - 👨‍💻 I'm a entry level coder
 > - :sparkles: I'm currenlty learning blockchain development
 > - ⚡ My hobbies include sketching and poetry writing
-
 
 ### 🛠 &nbsp;Languages :
 
