@@ -10,7 +10,7 @@
 </div>
 
 > - 🎓 I'm a first year Btech.Computer Science student
-> - 👨‍💻 I'm a entry level coder
+> - 👨‍💻 I'm an entry level coder
 > - :sparkles: I'm currenlty learning blockchain development
 > - ⚡ My hobbies include sketching and poetry writing
 
