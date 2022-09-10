@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=red" alt=""/>
 </div>
 
-> - 🎓 I'm a first year Btech.Computer Science student
+> - 🎓 I'm a first year BE.Computer Science student
 > - 👨‍💻 I'm an entry level coder
 > - :sparkles: I'm currenlty learning blockchain development
 > - ⚡ My hobbies include sketching and poetry writing
