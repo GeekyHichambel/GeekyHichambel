@@ -1,7 +1,10 @@
 ### Abt me
 >My profile overview
 
-<p align="center"><img src="https://media.giphy.com/media/jO3guf6Wf47T2/giphy.gif" width="250"/></p>
+
+
+<p align="center"><img src="https://media.giphy.com/media/jO3guf6Wf47T2/giphy.gif" width="500"/></p>
+
 
 # Hey folks,👋 my name is Parth Vij and I'm a passionate coder
 <div>
