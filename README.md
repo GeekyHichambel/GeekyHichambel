@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><img src="https://media.giphy.com/media/jO3guf6Wf47T2/giphy.gif" width="500"/></p>
+<p align="center"><img src="https://www.icegif.com/wp-content/uploads/2022/02/icegif-234.gif" width="500"/></p>
 
 
 # Hey folks,👋 my name is Parth Vij and I'm a passionate coder
