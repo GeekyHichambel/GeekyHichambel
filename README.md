@@ -18,7 +18,7 @@
 > - ⚡ My hobbies include sketching and poetry writing
 > - 😉 I like to watch anime in my free time. My Kitsu profile:"https://kitsu.io/users/1349195"
 
-### 🛠 &nbsp;Languages :
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,4 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" width = "40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" width = "40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/pulsar-color/48/null/xml-file.png" title="XML" width="40" height="40"/>&nbsp;
 </div>
