@@ -13,8 +13,7 @@
 </div>
 
 > - 🎓 I'm a first year BE.Computer Science student
-> - 👨‍💻 I'm an entry level coder
-> - :sparkles: I'm currenlty learning blockchain development
+> - 👨‍💻 Rookie - Android Developer
 > - ⚡ My hobbies include sketching and poetry writing
 > - 😉 I like to watch anime in my free time. My Kitsu profile:"https://kitsu.io/users/1349195"
 
