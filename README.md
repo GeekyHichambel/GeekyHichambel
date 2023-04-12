@@ -13,7 +13,7 @@
 </div>
 
 > - 🎓 I'm a first year BE.Computer Science student
-> - 👨‍💻 Rookie - Android Developer
+> - 👨‍💻 Rookie - Android Developer and Game Developer
 > - ⚡ My hobbies include sketching and poetry writing
 > - 😉 I like to watch anime in my free time. My Kitsu profile:"https://kitsu.io/users/1349195"
 
