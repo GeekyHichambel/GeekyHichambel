@@ -33,4 +33,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Firebase" width = "40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/pulsar-color/48/null/xml-file.png" title="XML" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" title="Pygame" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" width="40" height="40"/>&nbsp;  
 </div>
