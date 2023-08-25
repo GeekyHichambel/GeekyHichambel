@@ -9,7 +9,7 @@
 # Hey folks,👋 my name is Parth Vij and I'm a passionate coder
 <div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=blue" alt=""/>
 </div>
 
 > - 🎓 I'm a second year BE.Computer Science student
@@ -34,5 +34,6 @@
 <img src="https://img.icons8.com/pulsar-color/48/null/xml-file.png" title="XML" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" title="Pygame" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Solidity" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Solidity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Solidity" width="40" height="40"/>&nbsp;
 </div>
