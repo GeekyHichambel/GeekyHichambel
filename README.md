@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=green" alt=""/>
 </div>
 
-> - 🎓 I'm a first year BE.Computer Science student
+> - 🎓 I'm a second year BE.Computer Science student
 > - 👨‍💻 Rookie - Android Developer and Game Developer
 > - ⚡ My hobbies include sketching and poetry writing
 > - 😉 I like to watch anime in my free time. My Kitsu profile:"https://kitsu.io/users/1349195"
