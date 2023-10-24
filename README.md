@@ -33,4 +33,4 @@
 </div>
 
 <p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=blue-green" width="400" height="400"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=blue-green" width="350" height="350"/></p>
