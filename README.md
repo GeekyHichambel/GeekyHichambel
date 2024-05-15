@@ -9,7 +9,7 @@
 > - 🎓 I'm a second-year, BE. Computer Science student
 > - 👨‍💻 Rookie - App Developer
 > - ⚡ My hobbies include sketching and poetry writing
-> - 😉 I like to watch anime in my free time. My Kitsu profile:"https://kitsu.io/users/1349195"
+> - 😉 I like to watch anime in my free time. My Kitsu profile: <a href="https://kitsu.io/users/1349195">Click Me!!</a>
 
 # 💻 My Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
