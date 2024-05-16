@@ -1,37 +1,74 @@
-### Abt me ✨
-# Hey folks,👋 My name is Parth Vij and I'm a passionate coder
-
+<div align="center">
+<h1>Hey folks,👋 My name is Parth Vij and I'm a passionate coder</h1>
+</div>
+<br>
+<div align="center">
+<p>🎓 I'm a second-year, BE. Computer Science student</p>
+<p>👨‍💻 Rookie - App Developer</p>
+<p>⚡ My hobbies include sketching and poetry writing</p>
+<p>😉 I like to watch anime in my free time. My Kitsu profile: <a href="https://kitsu.io/users/1349195" target="_blank">👆</a></p>
+</div>
+<div align="center">
+<details open>
+<summary><h2>💻 My Tech Stack:</h2></summary>
 <div>
+  <h3>Languages</h3>
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Javascript-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Typescript-00599C?style=for-the-badge"/></td>
+    </tr>
+  </table>
+  <br>
+  <h3>Frameworks & Libraries</h3>
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Flutter-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Pygame-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Tailwind-CSS-00599C?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Material-UI-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/FIREBASE-00599C?style=for-the-badge"/></td>
+    </tr>
+  </table>
+  <br>
+  <h3>Softwares & Tools</h3>
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/GIT-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Mysql-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Godot-00599C?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Canva-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Krita-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Tiled-00599C?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img src="https://img.shields.io/badge/Android-Studio-00599C?style=for-the-badge"/></td>
+    </tr>
+  </table>
+</div>  
+</details>  
+</div>  
+<br>
+<div align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=github_dark" width="250" height="250"/>
+</div>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=blue" alt=""/>
 </div>
-
-> - 🎓 I'm a second-year, BE. Computer Science student
-> - 👨‍💻 Rookie - App Developer
-> - ⚡ My hobbies include sketching and poetry writing
-> - 😉 I like to watch anime in my free time. My Kitsu profile: <a href="https://kitsu.io/users/1349195">Click Me!!</a>
-
-# 💻 My Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![GoDot](https://img.shields.io/badge/godot-00599C?style=for-the-badge&logo=GODOT&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-</div>
-
-<p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=blue-green" width="350" height="350"/></p>
