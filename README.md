@@ -36,10 +36,10 @@
     <tr>
       <td><img src="https://img.shields.io/badge/Flutter-ff64da?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/Pygame-ff64da?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Tailwind-CSS-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Tailwind--CSS-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Material-UI-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Material--UI-ff64da?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/MongoDB-ff64da?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/FIREBASE-ff64da?style=for-the-badge"/></td>
     </tr>
@@ -58,7 +58,7 @@
       <td><img src="https://img.shields.io/badge/Tiled-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td colspan="3"><img src="https://img.shields.io/badge/Android-Studio-ff64da?style=for-the-badge"/></td>
+      <td colspan="3"><img src="https://img.shields.io/badge/Android--Studio-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
 </div>  
