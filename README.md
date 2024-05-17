@@ -1,4 +1,4 @@
-<div align="center">
+<div class="headline" align="center">
 <h1>Hey folks,👋 My name is Parth Vij and I'm a passionate coder</h1>
 </div>
 <br>
@@ -15,50 +15,50 @@
   <h3>Languages</h3>
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/C-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/C++-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Python-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/CSS-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Java-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Dart-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CSS-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Javascript-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Typescript-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Javascript-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Typescript-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
   <br>
   <h3>Frameworks & Libraries</h3>
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/Flutter-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Pygame-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Tailwind-CSS-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Flutter-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Pygame-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Tailwind-CSS-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Material-UI-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/MongoDB-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/FIREBASE-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Material-UI-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/FIREBASE-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
   <br>
   <h3>Softwares & Tools</h3>
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/GIT-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Mysql-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Godot-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/GIT-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Mysql-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Godot-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Canva-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Krita-00599C?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Tiled-00599C?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Canva-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Krita-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Tiled-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td colspan="3"><img src="https://img.shields.io/badge/Android-Studio-00599C?style=for-the-badge"/></td>
+      <td colspan="3"><img src="https://img.shields.io/badge/Android-Studio-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
 </div>  
@@ -66,9 +66,9 @@
 </div>  
 <br>
 <div align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=github_dark" width="250" height="250"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=jolly" width="250" height="250"/>
 </div>
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=ff64da" alt=""/>
 </div>
