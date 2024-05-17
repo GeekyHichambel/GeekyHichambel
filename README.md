@@ -1,5 +1,6 @@
+<div class="content">
 <div class="headline" align="center">
-<h1>Hey folks,👋 My name is Parth Vij and I'm a passionate coder</h1>
+<h1 style="color: #ff64da;">Hey folks,👋 My name is Parth Vij and I'm a passionate coder</h1>
 </div>
 <br>
 <div align="center">
@@ -71,4 +72,5 @@
 <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=ff64da" alt=""/>
+</div>
 </div>
