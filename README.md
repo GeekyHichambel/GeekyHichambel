@@ -70,7 +70,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekyHichambel&theme=jolly" width="250" height="250"/>
 </div>
 <br>
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=geekyhichambel&style=flat-square&color=ff64da" alt=""/>
 </div>
 </div>
