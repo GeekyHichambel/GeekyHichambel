@@ -2,7 +2,7 @@
 <div class="headline" align="center">
 <h1>Hey folks,👋 My name is Parth Vij and I'm a passionate coder</h1>
 <br>
-<img height="200" width="200" src="https://cdn3.emoji.gg/emojis/91428-pedro-racoon.gif"/>  
+<img height="200" width="200" src="https://tenor.com/view/racoon-pedro-gif-3845002910700718184"/>  
 </div>
 <br>
 <div align="center">
