@@ -2,7 +2,7 @@
 <div class="headline" align="center">
 <h1>Hey folks,👋 My name is Parth Vij and I'm a passionate coder</h1>
 <br>
-<img height="200" width="200" src="https://media4.giphy.com/media/ZJPSFNLmADueHvzoZ8/giphy.gif"/>  
+<img height="200" width="200" src="https://media0.giphy.com/media/aQwvKKi4Lv3t63nZl9/giphy.gif?cid=6c09b95299dwqzs63eap9xn894vuetzl7im5fvz1z3kkksoa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>  
 </div>
 <br>
 <div align="center">
