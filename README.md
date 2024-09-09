@@ -31,7 +31,7 @@
     <tr>
       <td><img src="https://img.shields.io/badge/HTML-ff64da?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/Javascript-ff64da?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Typescript-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Solidity-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
   <br>
