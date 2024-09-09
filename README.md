@@ -47,6 +47,11 @@
       <td><img src="https://img.shields.io/badge/MongoDB-ff64da?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/FIREBASE-ff64da?style=for-the-badge"/></td>
     </tr>
+<tr>
+ <td><img src="https://img.shields.io/badge/REACT JS-ff64da?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/NEXT JS-ff64da?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/EXPRESS JS-ff64da?style=for-the-badge"/></td>
+</tr>
   </table>
   <br>
   <h3>Softwares & Tools</h3>
