@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 <p>🎓 I'm a third-year, BE. Computer Science student</p>
-<p>👨‍💻 App Developer</p>
+<p>👨‍💻 App Developer / Web Developer / Blockchain Developer</p>
 <p>⚡ My hobbies include sketching and poetry writing</p>
 <p>😉 I like to watch anime in my free time. My Kitsu profile: <a href="https://kitsu.io/users/1349195" target="_blank">👆</a></p>
 <p>Checkout my portfolio here: <a href="https://parthvij.netlify.app" target="_blank">👆</a></p>  
