@@ -30,8 +30,11 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/HTML-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/PHP-ff64da?style=for-the-badge"/></td>
       <td><img src="https://img.shields.io/badge/Javascript-ff64da?style=for-the-badge"/></td>
-      <td><img src="https://img.shields.io/badge/Solidity-ff64da?style=for-the-badge"/></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img src="https://img.shields.io/badge/Solidity-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
   <br>
@@ -67,7 +70,9 @@
       <td><img src="https://img.shields.io/badge/Tiled-ff64da?style=for-the-badge"/></td>
     </tr>
     <tr>
-      <td colspan="3"><img src="https://img.shields.io/badge/Android--Studio-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Unity-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Android--Studio-ff64da?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/Replit-ff64da?style=for-the-badge"/></td>
     </tr>
   </table>
 </div>  
